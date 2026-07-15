@@ -1,0 +1,4 @@
+interface:
+  display_name: "Export Conversation"
+  short_description: "Export complete conversations to portable JSON"
+  default_prompt: "Use $export-conversation to export this completed conversation as a verified raw archive and OpenAI-compatible JSON."
